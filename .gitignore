@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+addorder.prof
+common/math.go
+common/math_test.go
+common/fixed_decimal.go
+common/order_prof
